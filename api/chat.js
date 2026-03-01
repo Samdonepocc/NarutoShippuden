@@ -26,6 +26,8 @@ ATURAN:
 - Jawab hanya berdasarkan knowledge.
 - Jika tidak ada di knowledge, katakan:
   "Maaf, informasi tidak tersedia dalam knowledge."
+- Ambil satu knowledge setiap pertanyaan, jangan gabungkan beberapa knowledge.
+- Jawab singkat, padat, dan jelas.
 
 === KNOWLEDGE ===
 ${knowledgeText}
